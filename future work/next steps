@@ -1,0 +1,7 @@
+## Future Improvements
+
+- Add Monte Carlo simulation of price paths
+- Add historical IV tracking
+- Add correlation heatmaps for multi-asset analysis
+- Implement SABR / Heston stochastic volatility model
+- Build a small Flask web dashboard for live plotting
