@@ -1,0 +1,5 @@
+ Data Sources
+
+- Spot & historical price data from Yahoo Finance API via yfinance
+- Option chain data from NSE option chain endpoint
+- Interest rates estimation from RBI base rate / India risk-free proxy
